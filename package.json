@@ -70,7 +70,7 @@
     "react-select": "1.3.0",
     "react-tabs": "^3.0.0",
     "relay-runtime": "5.0.0",
-    "superstring": "git+https://github.com/Alex313031/superstring-ng.git#a37202c",
+    "superstring": "git+https://github.com/Alex313031/superstring-ng.git#94e2ee0",
     "temp": "0.9.4",
     "tinycolor2": "1.4.2",
     "tree-kill": "1.2.2",
