@@ -77,7 +77,7 @@
     "underscore-plus": "1.7.0",
     "what-the-diff": "0.6.0",
     "what-the-status": "1.0.3",
-    "whats-my-line": "^0.1.4",
+    "whats-my-line": "git+https://github.com/Alex313031/whats-my-line-ng.git#549cd0a",
     "yubikiri": "2.0.0"
   },
   "devDependencies": {
