@@ -70,14 +70,14 @@
     "react-select": "1.3.0",
     "react-tabs": "^3.0.0",
     "relay-runtime": "5.0.0",
-    "superstring": "git+https://github.com/Alex313031/superstring-ng.git#3ba74c5",
+    "superstring": "git+https://github.com/Alex313031/superstring-ng.git#f99d529",
     "temp": "0.9.4",
     "tinycolor2": "1.4.2",
     "tree-kill": "1.2.2",
     "underscore-plus": "1.7.0",
     "what-the-diff": "0.6.0",
     "what-the-status": "1.0.3",
-    "whats-my-line": "git+https://github.com/Alex313031/whats-my-line-ng.git#dce669a",
+    "whats-my-line": "git+https://github.com/Alex313031/whats-my-line-ng.git#9150a4c",
     "yubikiri": "2.0.0"
   },
   "devDependencies": {
